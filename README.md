@@ -13,3 +13,5 @@ AIMS:
 4 - add in hover sections to where teams are
 
 5 - ???
+
+###### NOTE: Jordane is also working on something similar and Sam is making a better SVG for him. Look to use this new svg in the future and integrate with what Jordane is doing.
