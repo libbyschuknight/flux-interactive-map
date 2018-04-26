@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="621px" height="167px" viewBox="0 0 621 167" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Overlay</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Original-Copy" transform="translate(-20.000000, -34.000000)">
+            <g id="Overlay">
+                <rect id="Rectangle" fill-opacity="0" fill="#000000" x="0" y="0" width="786" height="448"></rect>
+                <polygon id="Combined-Shape" fill="#E8CE6B" fill-rule="nonzero" points="79.4 145.6 84.4 145.6 84.4 197.6 53.9 197.6 53.9 146 53.7 146 53.7 144.5 79.4 144.5 79.4 145.6"></polygon>
+                <rect id="XMLID_357_" fill="#CC6AA0" fill-rule="nonzero" x="610.3" y="102.3" width="30.2" height="28.2"></rect>
+                <polygon id="Combined-Shape" fill="#E8CE6B" fill-rule="nonzero" points="105.1 114.4 143.9 114.4 143.9 145.4 105.1 145.4"></polygon>
+                <polygon id="Combined-Shape" fill="#71AECE" fill-rule="nonzero" points="145.6 114.4 177.1 114.4 177.1 142.7 176 142.7 176 141.4 145.6 141.4"></polygon>
+                <polygon id="Combined-Shape" fill="#CC6AA0" fill-rule="nonzero" points="177.4 114.4 209 114.4 209 142.7 207.6 142.7 207.6 141.4 177.4 141.4"></polygon>
+                <rect id="XMLID_11064_" fill="#71AECE" fill-rule="nonzero" x="580.6" y="100.9" width="29.3" height="29.6"></rect>
+                <rect id="XMLID_11074_" fill="#4B6671" fill-rule="nonzero" opacity="0.43" x="441.6" y="34.9" width="43.8" height="26.1"></rect>
+                <polygon id="Combined-Shape" fill="#81519C" fill-rule="nonzero" points="209.3 114.4 241.4 114.4 241.4 141.4 211.4 141.4 211.4 142.7 209.3 142.7"></polygon>
+                <rect id="XMLID_11069_" fill="#73B8B6" fill-rule="nonzero" x="20.6" y="146.4" width="32.5" height="50.9"></rect>
+                <rect id="XMLID_11071_" fill="#4B6671" fill-rule="nonzero" opacity="0.43" x="21.1" y="73.7" width="63.4" height="68.8"></rect>
+                <polygon id="Combined-Shape" fill="#4B6671" fill-rule="nonzero" opacity="0.43" points="193 201 193 143 240.5 143 240.5 201"></polygon>
+                <polygon id="Combined-Shape" fill="#4B6671" fill-rule="nonzero" opacity="0.43" points="193 201 146 201 146 146.3 149.5 146.3 149.5 143 193 143"></polygon>
+                <polygon id="Combined-Shape" fill="#4B6671" fill-rule="nonzero" opacity="0.43" points="146 201 104.9 201 104.9 146.3 146 146.3"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
