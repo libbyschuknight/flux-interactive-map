@@ -1,14 +1,22 @@
 $(document).ready(function(){
-    $(".room").hover(function(){
-        $(this).css("fill", "yellow");
-        }, function(){
-        $(this).css("fill", "pink");
+    // $(".room").hover(function(){
+    //     $(this).css("fill", "yellow");
+    //     }, function(){
+    //     $(this).css("fill", "pink");
+    // });
+
+
+
+    $(".room").mouseover(function() {
+      console.log($(this));
+        $(".room-info").show();
+        $(".room-info").append("this text i!!");
     });
 
-    $(".room").hover(function() {
-        $( this ).append( $( "<span> ***</span>" ) );
-      }, function() {
-        $( this ).find( "span:last" ).remove();
+    $(".room").mouseout(function() {
+      console.log($(this));
+      $(".room-info").empty();
+      // $(".room-info").hide();
     });
 
 });

@@ -10,14 +10,16 @@ body {
 }
 
 svg {
-	border: red solid 1px;
+  /* border:  1px solid red; */
 }
 
+.box {
+  /* background-color: yellow; */
+  padding: 5px;
+  margin: 5px;
+}
 
 .room-info {
-  display: none;
-  background:#eee;
-  padding:30px;
-  width:200px;
-  margin:10px;
+  /* background: #eee; */
+  text-align: center;
 }
