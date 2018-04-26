@@ -10,13 +10,16 @@ body {
 }
 
 svg {
-	border: red solid 1px;
+  /* border:  1px solid red; */
 }
 
-.container {
-  height: 100%;
+.box {
+  /* background-color: yellow; */
+  padding: 5px;
+  margin: 5px;
 }
 
-img {
-  width: 75%;
+.room-info {
+  /* background: #eee; */
+  text-align: center;
 }
