@@ -13,10 +13,11 @@ svg {
 	border: red solid 1px;
 }
 
-.container {
-  height: 100%;
-}
 
-img {
-  width: 75%;
+.room-info {
+  display: none;
+  background:#eee;
+  padding:30px;
+  width:200px;
+  margin:10px;
 }
