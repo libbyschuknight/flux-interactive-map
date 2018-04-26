@@ -1,12 +1,12 @@
 $(document).ready(function(){
-    $(".room").mouseover(function() {
-      console.log($(this));
-        $(".room-info").show();
-        $(".room-info").append("this text i!!");
+    $('.space').mouseover(function() {
+      var roomId = $(this).attr('id');
+      $('.space-info').show();
+      $('.space-info').append(roomId);
     });
 
-    $(".room").mouseout(function() {
-      console.log($(this));
-      $(".room-info").empty();
+    $('.space').mouseout(function() {
+      $(this).attr('id')
+      $('.space-info').empty();
     });
 });
