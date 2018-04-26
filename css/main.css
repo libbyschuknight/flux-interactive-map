@@ -20,3 +20,11 @@ svg {
 img {
   width: 75%;
 }
+
+rect:hover {
+  fill: red;
+}
+
+polygon:hover {
+  fill: red;
+}
