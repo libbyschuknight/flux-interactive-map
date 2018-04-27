@@ -18,9 +18,9 @@ AIMS:
 
 
 ## Annah
-This project was very exciting to me becuse I really wanted to work with SVGs. I found when using the vector image it was easier to write code to manipulate the image. We also wanted to add a level of user engagment with mouse overs. I tried working with our CSS to create a style change when the mouse hovered over meeting room. I think this would be a usful feature to add laster, we were able to achive our MVP. 
+This project was very exciting to me becuse I really wanted to work with SVGs. I found when using the vector image it was easier to write code to manipulate the image. We also wanted to add a level of user engagment with mouse over. I tried working with our CSS to create a color change when the mouse hovered over a meeting room. I think this would be a usful feature to add later. As a team I believe we hit our MVP maybe next time we can try for our stretch goals. 
 
-It was great to work in a group with Libby and Priya, we all had diffiernt back grounds. The collboration and conversation around the issues and code challenge resulted in really positive outcomes. I liked engaging with code again, I hadn't in awhile. This was a large review for me with the jovascript language. I hope to continue the project and create a finished product. 
+It was great to work in a group with Libby and Priya, we all had diffiernt back grounds. The collboration and conversation around the issues and code challenge resulted in really positive outcomes. I liked engaging with code again, I hadn't in awhile. This was a large review for me with the jovascript language. I hope to continue the project and create a finished polished product. 
 
 
 ## Priya
