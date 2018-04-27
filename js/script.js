@@ -26,3 +26,18 @@ $(document).ready(function(){
     $('.space-info').empty();
   });
 });
+
+
+function mouseOver(obj) {
+  id = obj.id
+ document.getElementById("tooltip").innerHTML = obj.id
+ document.getElementById("tooltip").classList.add('tooltip');
+ document.getElementById("tooltip").classList.add('tooltiptext');
+
+}
+function mouseOut(obj)
+{
+  document.getElementById("tooltip").innerHTML = ""
+  document.getElementById(obj.id).classList.remove('tooltip');
+  document.getElementById(obj.id).classList.remove('tooltiptext');
+}
