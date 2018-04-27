@@ -3,6 +3,7 @@
           box-sizing: border-box;
   margin: 0 auto;
   padding: 0;
+  text-align: center;
 }
 
 body {
@@ -22,4 +23,8 @@ svg {
 
 .space-info {
   text-align: center;
+}
+
+.link {
+  margin-top: 29px;
 }
