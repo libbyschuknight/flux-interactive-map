@@ -1,14 +1,21 @@
 $(document).ready(function(){
-    $('.space').mouseover(function() {
-      var roomId = $(this).attr('id');
-      $('.space-info').show();
-      $('.space-info').append(roomId);
-    });
+  var descriptions = {};
 
-    $('.space').mouseout(function() {
-      $(this).attr('id')
-      $('.space-info').empty();
-    });
+  descriptions['serenity'] = 'Serenity - space ship from x';
+  descriptions['10-pegasus'] = 'Pegasus - space ship from BSG';
+
+
+  $('.space').mouseover(function() {
+    var spaceId = $(this).attr('id');
+    var description = (descriptions[spaceId]);
+    $('.space-info').show();
+    $('.space-info').append(description);
+  }); 
+
+  $('.space').mouseout(function() {
+    $(this).attr('id')
+    $('.space-info').empty();
+  });
 });
 
 
