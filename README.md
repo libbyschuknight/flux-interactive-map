@@ -33,7 +33,10 @@ This project was very exciting to me becuse I really wanted to work with SVGs. I
 It was great to work in a group with Libby and Priya, we all had diffiernt back grounds. The collboration and conversation around the issues and code challenge resulted in really positive outcomes. I liked engaging with code again, I hadn't in awhile. This was a large review for me with the jovascript language. I hope to continue the project and create a finished polished product.
 
 ### Priya
+It was very challenging and exciting participating in Hackfest for the first time. I worked on making a tooltip over the room
+name so that when we hover over it, it will show the room name and few more details in Javascript, Its still in progress. I have learnt a lot of cool things from Libby as well, working with git and with Jquery which is very useful to know. 
 
+Thanks to the team for all the hard work. Looking forward to adding more features next month.
 
 ### Libby
 
