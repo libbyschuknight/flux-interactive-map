@@ -14,12 +14,11 @@ svg {
 }
 
 .box {
-  /* background-color: yellow; */
   padding: 5px;
-  margin: 5px;
+  margin: 5px 5px 20px 5px;
+  height: 35px;
 }
 
-.room-info {
-  /* background: #eee; */
+.space-info {
   text-align: center;
 }
